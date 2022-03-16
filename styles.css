@@ -1,0 +1,39 @@
+.Box_Page_1{
+  position: absolute;
+width: 375px;
+height: 1725px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+}
+
+.Sub_Heading_page_1 {
+  width: 290px;
+  height: 23px;
+  left: 42px;
+  top: 213px;
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #1B1B50;
+}
+
+.Paragraph_Page_1 {
+  height: 75px;
+  width: 308px;
+  left: 33px;
+  top: 273px;
+  border-radius: 2;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #000000;
+}
